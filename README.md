@@ -22,7 +22,8 @@ Developed by: Harish R
 RegisterNumber:  212224230085
 */
 ```
-```import numpy as np
+```
+import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
 from sklearn.multioutput import MultiOutputRegressor
